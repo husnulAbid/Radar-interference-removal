@@ -1,0 +1,108 @@
+metadata:
+  RADAR_CODE:
+    rdr_code: 
+      type: 'string'
+      lenght: 2
+    latitude: 
+      type: 'decimal'
+      units: 'degrees'
+    longitude: 
+      type: 'decimal'
+      units: 'degrees'
+    radius:
+      type:  'integer'
+      units: 'km'
+    name: 
+      type: 'string'
+
+data:
+  CC:
+    rdr_code: 'cc'
+    latitude: 39.428820
+    longitude: -6.285380
+    radius: 240
+    name: 'Cáceres'
+  VA:
+    rdr_code: 'va'
+    latitude: 39.176290
+    longitude: -0.251020
+    radius: 240
+    name: 'Valencia'
+  CO:
+    rdr_code: 'co'
+    latitude: 43.169020
+    longitude: -8.526910
+    radius: 240
+    name: 'Coruña'
+  CA:
+    rdr_code: 'ca'
+    latitude: 28.018780
+    longitude: -15.614500
+    radius: 240
+    name: 'Canarias'
+  SE:
+    rdr_code: 'se'
+    latitude: 37.687430
+    longitude: -6.334470
+    radius: 240
+    name: 'Sevilla'
+  MU:
+    rdr_code: 'mu'
+    latitude: 38.264380
+    longitude: -1.189540
+    radius: 240
+    name: 'Murcia'
+  ML:
+    rdr_code: 'ml'
+    latitude: 36.613440
+    longitude: -4.659360
+    radius: 240
+    name: 'Málaga'
+  SA:
+    rdr_code: 'sa'
+    latitude: 43.462530
+    longitude: -6.302140
+    radius: 240
+    name: 'Asturias'
+  SS:
+    rdr_code: 'ss'
+    latitude: 43.403330
+    longitude: -2.841970
+    radius: 240
+    name: 'San Sebastián'
+  BA:
+    rdr_code: 'ba'
+    latitude: 41.408200
+    longitude: 1.884990
+    radius: 240
+    name: 'Barcelona'
+  MA:
+    rdr_code: 'ma'
+    latitude: 40.175920
+    longitude: -3.713620
+    radius: 240
+    name: 'Madrid'
+  VD:
+    rdr_code: 'vd'
+    latitude: 41.995700
+    longitude: -4.602720
+    radius: 240
+    name: 'Valladolid'
+  PM:
+    rdr_code: 'pm'
+    latitude: 39.379770
+    longitude: 2.785060
+    radius: 240
+    name: 'Palma'
+  AM:
+    rdr_code: 'am'
+    latitude: 36.832420
+    longitude: -2.082120
+    radius: 240
+    name: 'Almería'
+  ZA:
+    rdr_code: 'za'
+    latitude: 41.734010
+    longitude: -0.545880
+    radius: 240
+    name: 'Zaragoza'
